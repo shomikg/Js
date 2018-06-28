@@ -20,7 +20,7 @@ function parameterAsFunction ( func ) {
 
 }
 
-parameterAsFunction( hellWorld );
+parameterAsFunction( helloWorld );
 
 function helloWorld() {
 
